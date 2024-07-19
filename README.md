@@ -31,9 +31,9 @@ Copy code
 - **Email Notification**: Send the FLAMES result to a specified email address.
 - **User-Friendly Interface**: Simple web interface to input names and receive results.
 
-Open a web browser and navigate to http://localhost:8080.
 Usage
 =======
+Open a web browser and navigate to http://localhost:8080/Spring_MVC_Intermediate/
 
 Navigate to the Home Page:
 
